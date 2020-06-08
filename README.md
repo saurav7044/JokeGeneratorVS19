@@ -17,3 +17,6 @@ Microsoft Visual Studio 2019 (.Net Core 3.1)
 To run tests manually in MS Visual Studio: 
           1) Test -> Run All Tests
           2) Test -> Run -> All Tests
+## Authors  
+
+* **Saurav Agarwal** - *Initial work* - [Saurav Agarwal](https://github.com/saurav7044)
