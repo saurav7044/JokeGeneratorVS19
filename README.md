@@ -1,6 +1,6 @@
 # JokeGeneratorVS19
 
-This is a joke generating console application written using .NET Core, C#. This application gets random Chuck Norris jokes and can substitute other people’s names into the joke instead of Chuck Norris'. This application uses different api to get random name and jokes
+This is a joke generating console application written using .NET Core 3.1, C#. Application gets random Chuck Norris jokes and can substitute other people’s names into the joke instead of Chuck Norris'. This application uses different WebAPI to get random name and jokes.
 
 ## Getting Started  
 These instructions explain how to build and run this project on your local machine for development and/or testing purposes.  
