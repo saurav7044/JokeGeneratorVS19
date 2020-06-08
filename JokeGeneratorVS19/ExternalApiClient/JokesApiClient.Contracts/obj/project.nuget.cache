@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6cjxO04vQ3ngpNcrQ0Wi1JNaz2kvn5wSWrg5ixVJNMIMUHMvw62j5fISjRcz2HoI4EvEKYO5DTAVTYE1hHhs3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saura\\Desktop\\0608\\JokeGenerator2019\\ExternalApiClient\\JokesApiClient.Contracts\\JokesApiClient.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saura\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

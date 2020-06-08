@@ -1,0 +1,6 @@
+2020-06-07 22:10:26.196 -04:00 [Information] Starting
+2020-06-07 22:10:27.650 -04:00 [Fatal] Host builder error
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'jokeCount')
+   at JokeGenerator.Application.JokesParameters.AddJokeAmount(Int32 jokeCount) in C:\Users\saura\Desktop\0608\JokeGenerator2019\JokeGenerator\Application\JokesParameters.cs:line 16
+   at JokeGenerator.Application.ApplicationService.Run() in C:\Users\saura\Desktop\0608\JokeGenerator2019\JokeGenerator\Application\ApplicationService.cs:line 46
+   at JokeGenerator.Program.Main() in C:\Users\saura\Desktop\0608\JokeGenerator2019\JokeGenerator\Program.cs:line 45
